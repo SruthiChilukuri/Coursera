@@ -1,4 +1,4 @@
-# Coursera
+# Heart Failure prediction using Machine Learning
 
 Heart failure prediction model using Machine leraning:
 * Visualisation and preliminary Data exploration using plotly.express
